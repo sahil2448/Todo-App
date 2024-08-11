@@ -1,0 +1,9 @@
+.welcome{
+    font-size: 30px;
+    font-family:serif;
+    text-align: center;
+    /* border: 1px solid brown; */
+    width: 50%;
+    margin-top: 150px;
+    font-weight: 600px;
+}
